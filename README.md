@@ -20,7 +20,6 @@ The application provides product CRUD operations, item management, JWT-based aut
 * **Lombok**
 * **JUnit 5**
 * **Mockito**
-* **H2**
 * **Swagger / OpenAPI**
 * **Maven**
 * **Docker**
